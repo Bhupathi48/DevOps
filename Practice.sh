@@ -1,9 +1,9 @@
-Echo "Hello"
+echo "Hello"
 Print()
 {
-  Echo venkat
-  Echo MyTeam
-  Echo DevOps
+  echo venkat
+  echo MyTeam
+  echo DevOps
 }
 
 Print
