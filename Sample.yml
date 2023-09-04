@@ -1,0 +1,17 @@
+#Scalar
+Name: Venkat
+Age: 37
+Occupation: IT
+#List
+Hobbies:
+  - Watching TV
+  - Palying Cricket
+  - Reading Books
+# Mapping
+Degrees:
+  MCA:
+    - SLC
+  BSC:
+    - NG
+  IPE:
+    - MPC
